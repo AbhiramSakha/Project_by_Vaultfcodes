@@ -1,8 +1,6 @@
 
-# ╔══════════════════════════════════════════════════════════╗
 # 🚀 PROJECT_BY_VAULTFCODES
 ### ✨ Crafted with Code • Designed for Innovation • Built for Scalability ✨
-# ╚══════════════════════════════════════════════════════════╝
 
 <div align="center">
 
